@@ -11,7 +11,7 @@ The core of this project is the transformation of raw time-series sensor data in
 *   **Algorithm:** Random Forest Classifier (100 Estimators)[cite: 1]
 *   **Data Source:** Tri-axial accelerometer readings[cite: 1]
 
-## 📊 Feature Engineering
+## Feature Engineering
 To move from raw sensor noise to predictive power, the following statistical features were engineered for each axis (X, Y, Z)[cite: 1, 2]:
 
 | Feature Category | Description |
